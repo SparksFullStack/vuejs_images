@@ -1,26 +1,4 @@
 # vuejs_images
 
 ## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
+This is an image uploading and sharing application I built to practice learning Vue. The app uses Vue, Vuex, and Vue Router, as well as the OAuth and the Imgur APIs.
