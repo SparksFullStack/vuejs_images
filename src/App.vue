@@ -1,5 +1,7 @@
 <template>
-    <AppHeader />
+    <div>
+        <AppHeader />
+    </div>
 </template>
 
 <script>
@@ -14,4 +16,5 @@ import AppHeader from './components/AppHeader';
 </script>
 
 <style>
+    
 </style>
